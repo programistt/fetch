@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(31, 186, 197);
+    color: brown;
+    display: flex;
+    border: 10px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 30px;
+}
+
+.box {
+    border: 5px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    gap: 100px;
+    border-radius: 30px;
+    font-size: 30px
+}
+
+li {
+    text-decoration: none;
+}
